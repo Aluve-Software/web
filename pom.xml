@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>tech.aluvesoftware</groupId>
-    <artifactId>web</artifactId>
+    <artifactId>web_eqa</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -19,7 +19,7 @@
         <repository>
             <id>github</id>
             <name>aluve-software</name>
-            <url>https://maven.pkg.github.com/Aluve-Software/web</url>
+            <url>https://maven.pkg.github.com/Aluve-Software/web_qa</url>
         </repository>
     </distributionManagement>
 
